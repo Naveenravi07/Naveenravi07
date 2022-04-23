@@ -33,14 +33,12 @@ I've been coding for almost 1 year. I am a self taught developer. I am ready to 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Naveenravi07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/shastri_fps//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18632478/naveen-ravi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://naveenravi.com/#/)  
 
-
-
-### Badges<b>My GitHub Stats</b><a href="http://www.github.com/Naveenravi07"><img
-        src="https://github-readme-stats.vercel.app/api?username=Naveenravi07&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
-        alt="Naveenravi07's GitHub stats" /></a><a href="https://github.com/Naveenravi07" align="left"><img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenravi07&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
-        alt="Top Languages" /></a><b>Top Repositories</b>
-<div width="100%" align="center"><a href="https://github.com/Naveenravi07/Shopping-Cart-NodeJS" align="left"><img
-            align="left" width="45%"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=Naveenravi07&repo=Shopping-Cart-NodeJS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<img align="left" width="45%"
+     src="https://github-readme-stats.vercel.app/api/pin/?username=Naveenravi07&repo=Shopping-Cart-NodeJS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+     
 </div><br /><br /><br /><br /><br /><br /><br />
+
+
+<img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenravi07&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
+        alt="Top Languages" />
